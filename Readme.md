@@ -1,1 +1,1 @@
-# Ethereum projects boiler plate
+# Build a contract that mimics the lottery system
